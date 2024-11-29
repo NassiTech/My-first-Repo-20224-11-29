@@ -30,8 +30,8 @@
 
 ## Homework
 - [x ] Exercise *1*   **80 Pts**
-- [- ] Exercise *2* **20Pts**
-- [-] Exercise *3* **0Pts**  (*Extra for advanced* !)
+- [X ] Exercise *2* **20Pts**
+- [X] Exercise *3* **0Pts**  (*Extra for advanced* !)
    
           
 
